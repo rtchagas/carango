@@ -70,3 +70,12 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 ## Review, Update or Delete Data
 
 You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request to [support@carango.app](mailto:support@carango.app).
+
+Alternatively, you can use the Carango app to permanently delete your account and all data associated with it. To do so, follow these steps:
+
+- Log in to the [Carango App](https://play.google.com/store/apps/details?id=br.com.carango)
+- In the top-right menu, click on "Settings"
+- Scroll down and click on the "Delete Account" option
+- Follow the instructions
+
+*Tatu Mobi* will retain no data related to you, and everything associated with your account, including all vehicles and their events, will be deleted.
